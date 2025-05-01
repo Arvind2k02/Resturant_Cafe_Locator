@@ -1,4 +1,4 @@
-# Lister
+# Cafe_Locator
 Build a website that lists cafes with wifi and power for remote working in python
 To build a website that lists cafes with WiFi and power for remote working using Python, you can use a web framework like Flask and a database to store the cafe information. Here's a step-by-step guide to get you started:
 
